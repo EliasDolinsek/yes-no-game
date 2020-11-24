@@ -1,11 +1,14 @@
 # yes_no_game
 
-A simple Quitz app written in flutter.
+A simple game where the user has to answer random questions with either yes or no until you choose the wrong answer. The score increases by one with every correct answer. Yes-No-Game was written in Flutter for Android and iOS.
 
-## How it works
+![image 1](https://i.ibb.co/SmsC6PB/yes-no-game-01.png)
+![image 2](https://i.ibb.co/JmxYmZY/yes-no-game-02.png)
+![image 3](https://i.ibb.co/cv8KqDG/yes-no-game-03.png)
 
-You can answer a question with either yes or no. If the answer is correct, you get another one until you answer one wrong or all questions have been asked.
+### Features
+* Android and iOS version
 
-## GIF example
+### GIF example
 
 Example can be found here: https://im2.ezgif.com/tmp/ezgif-2-1357195ea477.gif
